@@ -38,6 +38,6 @@
     "documentationUrl": "https://sprout.barrelstrengthdesign.com/docs/seo",
     "changelogUrl": "https://raw.githubusercontent.com/BarrelStrength/sprout-seo-solspace-calendar/master/CHANGELOG.md",
     "downloadUrl": "https://github.com/BarrelStrength/sprout-seo-solspace-calendar/archive/master.zip",
-    "class": "barrelstrength\\sproutseosolspacecalendar\\sproutseosolspacecalendar"
+    "class": "barrelstrength\\sproutseosolspacecalendar\\SproutSeoSolspaceCalendar"
   }
 }
